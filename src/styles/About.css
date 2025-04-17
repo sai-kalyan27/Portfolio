@@ -1,0 +1,15 @@
+.aboutContainer {
+  max-width: 900px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  }
+  
+  .aboutContainer h2 {
+    font-size: 2rem;
+    color: #2563eb;
+    margin-bottom: 1rem;
+  }
+  
