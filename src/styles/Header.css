@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #f8fafc;
+    padding: 1rem;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.03);
+    position:sticky;
+    top: 0; /* This is required for sticky to work */
+  }
+  
+  .navLinks {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .navLinks a {
+    color: #2563eb;
+    font-weight: 600;
+    transition: color 0.3s;
+  }
+  
+  .navLinks a:hover {
+    color: #1e40af;
+  }
+  
