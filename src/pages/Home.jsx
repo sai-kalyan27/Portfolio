@@ -4,12 +4,7 @@ const Home = () => {
   return (
     <div className="container" id='home'>
     <h1>Hello, I'm Sai Kalyan 👋</h1>
-<<<<<<< HEAD
-    <p>Sai Kalyan — Senior Full-Stack Engineer | Python, React, AWS</p>
-=======
-    <p>A Full Stack Developer skilled in React.js, .NET, and more.</p>
->>>>>>> e9ecc2cd20c36186665b4622fd9c1740a2f56b86
-    
+    <p>Sai Kalyan — Senior Full-Stack Engineer | Python, React, AWS</p> 
   </div>
   );
 };

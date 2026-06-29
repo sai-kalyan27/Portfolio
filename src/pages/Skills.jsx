@@ -2,18 +2,12 @@ import React from "react";
 import "../styles/Skills.css";
 
 const skills = {
-<<<<<<< HEAD
   Languages: ["Python","Java","TypeScript","JavaScript"],
   Frontend: ["React.js", "Next.js", "Angular", "React Native"],
   Backend: ["FastAPI", "Spring Boot", "Node.js", "Express"],
   Databases :["PostgreSQL", "MySQL", "MongoDB", "DynamoDB"],
   "Cloud & DevOps": ["PostgreSQL", "MySQL", "MongoDB", "DynamoDB"],
   Other: ["REST APIs", "GraphQL", "Kafka", "OAuth 2.0", "JWT", "TDD (pytest, JUnit, Jest)", "Datadog"]
-=======
-  Frontend: ["React.js", "Next.js", "TypeScript", "HTML5", "CSS3"],
-  Backend: [".NET", "Node.js", "Express.js", "MongoDB"],
-  Tools: ["Git", "GitHub", "Postman", "CI/CD"]
->>>>>>> e9ecc2cd20c36186665b4622fd9c1740a2f56b86
 };
 
 const Skills = () => {
