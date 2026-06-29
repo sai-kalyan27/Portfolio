@@ -6,15 +6,9 @@ const About = () => {
     <div className="aboutContainer" id="about">
       <h2>About Me</h2>
       <p>
-<<<<<<< HEAD
         I'm a Senior Full-Stack Engineer with 5+ years building production systems that scale — currently at Deloitte, where I own backend services in Python and TypeScript serving 50,000+ daily users at 99.9% uptime.
 I care most about systems that hold up under real load, not just demos — like migrating a legacy reporting pipeline to Kafka-based events and cutting generation time from 12 seconds to under 2.
 Outside of shipping features, I mentor engineers, write clean tested code (TDD-first), and use AI tooling like Claude Code daily to move faster without cutting corners.
-=======
-        I am a Full Stack Developer with strong experience in building responsive,
-        accessible, and scalable web applications. I specialize in React.js, .NET, Node.js,
-        and modern frontend technologies. I’m passionate about clean code, UX, and solving real-world problems through tech.
->>>>>>> e9ecc2cd20c36186665b4622fd9c1740a2f56b86
       </p>
     </div>
   );

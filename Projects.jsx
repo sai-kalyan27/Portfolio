@@ -3,7 +3,6 @@ import "../styles/Project.css";
 
 const projects = [
   {
-<<<<<<< HEAD
     title: "Kafka-Based Reporting Pipeline",
     description:
       "Migrated a legacy reporting module from synchronous database queries to a Kafka-based event-driven architecture, reducing report generation time from 12 seconds to under 2 seconds.",
@@ -20,21 +19,6 @@ const projects = [
     description:
       "Redesigned the PostgreSQL schema for a multi-tenant SaaS platform to eliminate duplicate joins, improving dashboard query latency from 850ms to 300ms.",
     tech: ["PostgreSQL", "Python"]
-=======
-    title: "MERN Stack App",
-    description: "A full-stack application using MongoDB, Express.js, React.js, and Node.js with user login and dashboard.",
-    tech: ["MongoDB", "Express", "React", "Node"]
-  },
-  {
-    title: "Pizza Delivery Website",
-    description: "A React-based pizza ordering app with cart management and responsive design.",
-    tech: ["React", "JavaScript", "CSS"]
-  },
-  {
-    title: ".NET & React Admin Panel",
-    description: "Admin dashboard with data visualization, user authentication, and API integration.",
-    tech: [".NET Core", "React", "Redux"]
->>>>>>> e9ecc2cd20c36186665b4622fd9c1740a2f56b86
   }
 ];
 
